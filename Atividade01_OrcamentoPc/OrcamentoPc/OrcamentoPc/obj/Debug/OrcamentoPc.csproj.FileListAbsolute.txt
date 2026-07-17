@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Documents\SharpDevelop Projects\OrcamentoPc\OrcamentoPc\bin\Debug\OrcamentoPc.exe.config
+C:\Users\Guilherme\Documents\SharpDevelop Projects\OrcamentoPc\OrcamentoPc\bin\Debug\OrcamentoPc.exe
+C:\Users\Guilherme\Documents\SharpDevelop Projects\OrcamentoPc\OrcamentoPc\bin\Debug\OrcamentoPc.pdb
+C:\Users\Guilherme\Documents\SharpDevelop Projects\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\SharpDevelop Projects\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.MainForm.resources
+C:\Users\Guilherme\Documents\SharpDevelop Projects\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Documents\SharpDevelop Projects\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.exe
+C:\Users\Guilherme\Documents\SharpDevelop Projects\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.pdb
+C:\Users\TEMP.CENTRO40.064\Downloads\OrcamentoPc-20260714T111710Z-1-001\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.CENTRO40.064\Downloads\OrcamentoPc-20260714T111710Z-1-001\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.MainForm.resources
+C:\Users\TEMP.CENTRO40.064\Downloads\OrcamentoPc-20260714T111710Z-1-001\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.csproj.GenerateResource.Cache
+C:\Users\TEMP.CENTRO40.064\Downloads\OrcamentoPc-20260714T111710Z-1-001\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.exe
+C:\Users\TEMP.CENTRO40.064\Downloads\OrcamentoPc-20260714T111710Z-1-001\OrcamentoPc\OrcamentoPc\bin\Debug\OrcamentoPc.exe.config
+C:\Users\TEMP.CENTRO40.064\Downloads\OrcamentoPc-20260714T111710Z-1-001\OrcamentoPc\OrcamentoPc\bin\Debug\OrcamentoPc.exe
+C:\Users\TEMP.CENTRO40.064\Downloads\OrcamentoPc-20260714T111710Z-1-001\OrcamentoPc\OrcamentoPc\bin\Debug\OrcamentoPc.pdb
+C:\Users\TEMP.CENTRO40.064\Downloads\OrcamentoPc-20260714T111710Z-1-001\OrcamentoPc\OrcamentoPc\obj\Debug\OrcamentoPc.pdb

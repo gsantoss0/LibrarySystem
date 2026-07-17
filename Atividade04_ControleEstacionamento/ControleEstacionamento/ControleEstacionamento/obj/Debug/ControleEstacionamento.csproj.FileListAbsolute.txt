@@ -1,0 +1,8 @@
+C:\Users\TEMP.CENTRO40.066\Documents\SharpDevelop Projects\ControleEstacionamento\ControleEstacionamento\bin\Debug\ControleEstacionamento.exe.config
+C:\Users\TEMP.CENTRO40.066\Documents\SharpDevelop Projects\ControleEstacionamento\ControleEstacionamento\bin\Debug\ControleEstacionamento.exe
+C:\Users\TEMP.CENTRO40.066\Documents\SharpDevelop Projects\ControleEstacionamento\ControleEstacionamento\bin\Debug\ControleEstacionamento.pdb
+C:\Users\TEMP.CENTRO40.066\Documents\SharpDevelop Projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\ControleEstacionamento.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.CENTRO40.066\Documents\SharpDevelop Projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\ControleEstacionamento.MainForm.resources
+C:\Users\TEMP.CENTRO40.066\Documents\SharpDevelop Projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\ControleEstacionamento.csproj.GenerateResource.Cache
+C:\Users\TEMP.CENTRO40.066\Documents\SharpDevelop Projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\ControleEstacionamento.exe
+C:\Users\TEMP.CENTRO40.066\Documents\SharpDevelop Projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\ControleEstacionamento.pdb

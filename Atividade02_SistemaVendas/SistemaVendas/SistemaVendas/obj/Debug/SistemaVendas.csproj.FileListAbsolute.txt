@@ -1,0 +1,16 @@
+C:\Users\TEMP.CENTRO40.064\Documents\SharpDevelop Projects\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.CENTRO40.064\Documents\SharpDevelop Projects\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.MainForm.resources
+C:\Users\TEMP.CENTRO40.064\Documents\SharpDevelop Projects\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.Cache
+C:\Users\TEMP.CENTRO40.064\Documents\SharpDevelop Projects\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Users\TEMP.CENTRO40.064\Documents\SharpDevelop Projects\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Users\TEMP.CENTRO40.064\Documents\SharpDevelop Projects\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Users\TEMP.CENTRO40.064\Documents\SharpDevelop Projects\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Users\TEMP.CENTRO40.064\Documents\SharpDevelop Projects\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+C:\Users\Guilherme\Downloads\SistemaVendas-20260714T221101Z-1-001\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Users\Guilherme\Downloads\SistemaVendas-20260714T221101Z-1-001\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Users\Guilherme\Downloads\SistemaVendas-20260714T221101Z-1-001\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Users\Guilherme\Downloads\SistemaVendas-20260714T221101Z-1-001\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Downloads\SistemaVendas-20260714T221101Z-1-001\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.MainForm.resources
+C:\Users\Guilherme\Downloads\SistemaVendas-20260714T221101Z-1-001\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Downloads\SistemaVendas-20260714T221101Z-1-001\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Users\Guilherme\Downloads\SistemaVendas-20260714T221101Z-1-001\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb

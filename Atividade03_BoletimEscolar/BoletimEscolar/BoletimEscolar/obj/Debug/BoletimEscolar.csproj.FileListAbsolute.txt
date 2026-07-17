@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Documents\SharpDevelop Projects\BoletimEscolar\BoletimEscolar\bin\Debug\BoletimEscolar.exe.config
+C:\Users\Guilherme\Documents\SharpDevelop Projects\BoletimEscolar\BoletimEscolar\bin\Debug\BoletimEscolar.exe
+C:\Users\Guilherme\Documents\SharpDevelop Projects\BoletimEscolar\BoletimEscolar\bin\Debug\BoletimEscolar.pdb
+C:\Users\Guilherme\Documents\SharpDevelop Projects\BoletimEscolar\BoletimEscolar\obj\Debug\BoletimEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\SharpDevelop Projects\BoletimEscolar\BoletimEscolar\obj\Debug\BoletimEscolar.MainForm.resources
+C:\Users\Guilherme\Documents\SharpDevelop Projects\BoletimEscolar\BoletimEscolar\obj\Debug\BoletimEscolar.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Documents\SharpDevelop Projects\BoletimEscolar\BoletimEscolar\obj\Debug\BoletimEscolar.exe
+C:\Users\Guilherme\Documents\SharpDevelop Projects\BoletimEscolar\BoletimEscolar\obj\Debug\BoletimEscolar.pdb
