@@ -1,9 +1,0 @@
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\bin\Debug\MySql.Data.dll
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Forms.FrmClientes.resources
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.Cache
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
-C:\Users\Guilherme\Documents\SharpDevelop Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb
