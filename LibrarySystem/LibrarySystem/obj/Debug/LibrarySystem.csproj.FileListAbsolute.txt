@@ -1,0 +1,13 @@
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MainForm.resources
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.RegisterBookForm.resources
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.RegisterUserForm.resources
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.LoanBookForm.resources
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.ReturnBookForm.resources
+C:\Users\Guilherme\Documents\SharpDevelop Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.BooksForm.resources
