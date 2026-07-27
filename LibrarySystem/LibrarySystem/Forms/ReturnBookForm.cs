@@ -29,12 +29,12 @@ namespace LibrarySystem.Forms
                 return;
             }
 
-            // Realiza a devolução: marca DateReturned e faz IsBorrowed = false no Book
+            
             selectedLoan.RegisterReturn();
 
             MessageBox.Show("Book succesfully returned!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-            // Fecha a janela de devolução e retorna ao MainForm
+            
             this.Hide();
             new MainForm().ShowDialog();
 		}
@@ -45,13 +45,13 @@ namespace LibrarySystem.Forms
 		
 		private void LoadActiveLoans()
         {
-            // Filtra apenas empréstimos que ainda estão ativos (IsActive == true)
+            
             var activeLoans = DataContext.Loans.Where(l => l.IsActive).ToList();
 
             cmbActiveLoans.DataSource = null;
             cmbActiveLoans.DataSource = activeLoans;
 
-            // Se não houver empréstimos ativos, limpa os labels e desabilita o botão
+            
             if (activeLoans.Count == 0)
             {
                 lblLoanDate.Text = "-";
