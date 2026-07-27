@@ -22,14 +22,14 @@ namespace LibrarySystem.Forms
 		}
 		void BtnSaveClick(object sender, EventArgs e)
 		{
-			// 1. Validação simples
+			//validação
             if (string.IsNullOrWhiteSpace(txtTitle.Text) || string.IsNullOrWhiteSpace(txtAuthor.Text))
             {
                 MessageBox.Show("Please inform the title and the author.", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
-            // 2. Criando o objeto com as regras
+            //criando o objeto com as regras
             var newBook = new Book
             {
                 Id = DataContext.GetNextBookId(),
@@ -40,7 +40,7 @@ namespace LibrarySystem.Forms
                 PublicationYear = int.Parse(txtPublicationYear.Text)
             };
 
-            // 3. Salva na lista central
+            //salvar
             DataContext.Books.Add(newBook);
 
             MessageBox.Show("Book successfully registered!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
