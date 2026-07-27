@@ -46,7 +46,7 @@ namespace LibrarySystem.Forms
                 return;
             }
 
-            // Filtra por Título OU Autor
+            //filtrar por titulo ou autor
             var filteredBooks = DataContext.Books
                 .Where(b => (b.Title != null && b.Title.ToLower().Contains(searchTerm)) ||
                             (b.Author != null && b.Author.ToLower().Contains(searchTerm)))
@@ -57,20 +57,12 @@ namespace LibrarySystem.Forms
 		
 		private void FormatDataGridView()
 		{
-    		// 1. Faz as colunas ocuparem todo o espaço disponível na largura do DataGridView
+    		
     		dgvBooks.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-
-    		// 2. Aumenta a altura das linhas para o texto não ficar "espremido"
     		dgvBooks.RowTemplate.Height = 30;
-
-    		// 3. (Opcional) Melhora o alinhamento e altera a fonte das células
     		dgvBooks.DefaultCellStyle.Font = new System.Drawing.Font("Yu Gothica", 9F);
-    
-    		// 4. (Opcional) Melhora o visual do cabeçalho
     		dgvBooks.ColumnHeadersHeight = 35;
     		dgvBooks.EnableHeadersVisualStyles = false;
-    
-    		// 5. Ajusta o alinhamento para não cortar títulos longos
     		dgvBooks.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.None;
 		}
 		
