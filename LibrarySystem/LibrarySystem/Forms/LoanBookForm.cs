@@ -25,7 +25,6 @@ namespace LibrarySystem.Forms
 		{
 			
 			dtpReturnDate.Value = DateTime.Now.AddDays(14);
-			// Carrega apenas livros DISPONÍVEIS (IsBorrowed == false)
             cmbBooks.DataSource = DataContext.Books.Where(b => !b.IsBorrowed).ToList();
             
             // insere os usuarios no combobox
@@ -42,7 +41,7 @@ namespace LibrarySystem.Forms
                 return;
             }
 
-            // cria o empréstimo (o construtor do Loan já altera o IsBorrowed do livro para true)
+            // cria o empréstimo
             var loan = new Loan(DataContext.GetNextLoanId(), selectedBook, selectedUser, 14);
 
             // salva na lista
